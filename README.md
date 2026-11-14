@@ -13,16 +13,17 @@
 ---
 
 <div align="center">
-<table>
+<!-- TERMINAL WINDOW -->
+<table width="100%">
 <tr>
 <td>
 
-🔴 🟡 🟢 &nbsp; **fahim@github — bash** 
+🔴 🟡 🟢 &nbsp; **fahim@github — bash**
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="100%">
 
 <pre>
 ┌──(fahim㉿github)-[~]
