@@ -70,8 +70,14 @@ On the security side, I'm exploring web application security, penetration testin
 
 **Cybersecurity**
 
-`Burp Suite` · `Nmap` · `Wireshark` · `Tcpdump` · `Metasploit` · `Gobuster`
-
+<p>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Tcpdump-444444?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gobuster-222222?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 ---
 
 ## `$ featured-projects`
