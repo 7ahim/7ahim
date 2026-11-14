@@ -6,26 +6,53 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications.;Exploring+application+security.;Backend+AI+Engineering+Intern.;Always+learning%2C+building+and+experimenting." alt="Typing SVG" />
 
+[Portfolio](https://fahimabdulfattah.vercel.app/) · [GitHub](https://github.com/7ahim) · [LinkedIn](https://www.linkedin.com/in/fahim-abdul-fattah/) · [Instagram](https://www.instagram.com/7ah.iiim/)
+
 </div>
 
 ---
 
-```bash
+<div align="center">
+<table>
+<tr>
+<td>
+
+🔴 🟡 🟢 &nbsp; **fahim@github — bash** 
+
+</td>
+</tr>
+<tr>
+<td>
+
+<pre>
 ┌──(fahim㉿github)-[~]
 └─$ whoami
 
-  Fahim Abdul Fattah Masood
-  Final-year B.Tech Computer Science Engineering student.
-  Backend AI Engineering Intern.
-  Full Stack Developer & Cybersecurity Enthusiast.
+Fahim Abdul Fattah Masood
+
+┌──(fahim㉿github)-[~]
+└─$ cat profile.txt
+
+[+] Computer Science Engineering Student
+[+] Backend AI Engineering Intern
+[+] Full Stack Developer
+[+] Cybersecurity Enthusiast
 
 ┌──(fahim㉿github)-[~]
 └─$ cat interests.txt
 
-  > Full Stack Development
-  > Security Operations Center
-  > Penetration Testing
-```
+[*] Full Stack Development
+[*] Security Operations Center
+[*] Penetration Testing
+
+┌──(fahim㉿github)-[~]
+└─$ █
+</pre>
+
+</td>
+</tr>
+</table>
+</div>
 
 ## `$ about-me`
 
@@ -38,7 +65,7 @@ On the security side, I'm exploring web application security, penetration testin
 - 🎓 B.Tech CSE — BSA Crescent Institute of Science and Technology
 - 📊 CGPA: 9.16
 - 🔐 Ranked in the top 4% on TryHackMe
-- 🌱 Continuously exploring Full Stack Development, Cybersecurity and AI
+- 🌱 Exploring Full Stack Development and Cybersecurity
 
 ---
 
@@ -70,8 +97,6 @@ On the security side, I'm exploring web application security, penetration testin
 
 **Cybersecurity**
 
-**Cybersecurity**
-
 <p>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -80,6 +105,8 @@ On the security side, I'm exploring web application security, penetration testin
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Gobuster-222222?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
 
 ## `$ featured-projects`
 
@@ -93,7 +120,7 @@ On the security side, I'm exploring web application security, penetration testin
 
 `Next.js` `TypeScript` `Supabase` `Puppeteer` `Recharts`
 
-[Live Website]([https://pricehoundz.vercel.app/])
+[Live Website](https://pricehoundz.vercel.app/)
 
 ---
 
@@ -126,18 +153,9 @@ Explore the live project.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ahim&layout=compact&theme=github_dark&hide_border=true" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=7ahim&theme=github-dark-blue&hide_border=true" />
+<img width="95%" src="https://streak-stats.demolab.com?user=7ahim&theme=github-dark-blue&hide_border=true&cache_seconds=86400" alt="GitHub Streak Stats" />
 
 </div>
-
----
-
-## `$ currently-working-on`
-
-- Building AI-powered backend applications.
-- Exploring web application security and penetration testing.
-- Improving problem-solving and DSA skills.
-- Developing scalable full-stack applications.
 
 ---
 
