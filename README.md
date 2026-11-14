@@ -12,20 +12,15 @@
 
 ---
 
-<div align="center">
-<!-- TERMINAL WINDOW -->
-<table width="100%">
-<tr>
-<td>
+## `$ terminal`
 
-🔴 🟡 🟢 &nbsp; **fahim@github — bash**
+<div align="left">
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+**🔴 🟡 🟢 &nbsp; fahim@github — bash**
 
-<pre>
+</div>
+
+<pre width="100%">
 ┌──(fahim㉿github)-[~]
 └─$ whoami
 
@@ -35,7 +30,6 @@ Fahim Abdul Fattah Masood
 └─$ cat profile.txt
 
 [+] Computer Science Engineering Student
-[+] Backend AI Engineering Intern
 [+] Full Stack Developer
 [+] Cybersecurity Enthusiast
 
@@ -49,11 +43,6 @@ Fahim Abdul Fattah Masood
 ┌──(fahim㉿github)-[~]
 └─$ █
 </pre>
-
-</td>
-</tr>
-</table>
-</div>
 
 ## `$ about-me`
 
