@@ -70,6 +70,8 @@ On the security side, I'm exploring web application security, penetration testin
 
 **Cybersecurity**
 
+**Cybersecurity**
+
 <p>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -78,7 +80,6 @@ On the security side, I'm exploring web application security, penetration testin
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Gobuster-222222?style=for-the-badge&logo=github&logoColor=white" />
 </p>
----
 
 ## `$ featured-projects`
 
@@ -88,4 +89,75 @@ On the security side, I'm exploring web application security, penetration testin
 
 - Tracks product prices across Amazon, Flipkart, Reliance Digital, Croma and Poorvika.
 - Built resilient browser-based scrapers using Puppeteer.
-- Includes
+- Includes historical price analytics and target-price email alerts.
+
+`Next.js` `TypeScript` `Supabase` `Puppeteer` `Recharts`
+
+[Live Website]([https://pricehoundz.vercel.app/])
+
+---
+
+### 02. RugZen
+
+**Web Development Project**
+
+Explore the live project.
+
+[Live Website](https://www.rugzen.in/)
+
+---
+
+## `$ certifications`
+
+- Google Cybersecurity Professional Certificate — Coursera
+
+## `$ achievements`
+
+- Ranked in the **Top 4% on TryHackMe**.
+- CGPA of **9.16** in B.Tech Computer Science Engineering.
+
+---
+
+## `$ github-stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=7ahim&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ahim&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="95%" src="https://streak-stats.demolab.com?user=7ahim&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## `$ currently-working-on`
+
+- Building AI-powered backend applications.
+- Exploring web application security and penetration testing.
+- Improving problem-solving and DSA skills.
+- Developing scalable full-stack applications.
+
+---
+
+## `$ connect`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://fahimabdulfattah.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/7ahim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahim-abdul-fattah/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7ah.iiim/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahimabdulfattah@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=7ahim&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+**"Build. Break. Learn. Repeat."**
+
+</div>
